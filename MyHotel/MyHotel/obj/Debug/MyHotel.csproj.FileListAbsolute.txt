@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\MyHotel\MyHotel\bin\Debug\MyHotel.exe.config
+C:\Users\Admin\source\repos\MyHotel\MyHotel\bin\Debug\MyHotel.exe
+C:\Users\Admin\source\repos\MyHotel\MyHotel\bin\Debug\MyHotel.pdb
+C:\Users\Admin\source\repos\MyHotel\MyHotel\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.Form1.resources
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.Properties.Resources.resources
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.csproj.CopyComplete
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.exe
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.pdb
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.DashBoard.resources
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\MyHotel.User_Control.UC_AddRoom.resources
+C:\Users\Admin\source\repos\MyHotel\MyHotel\obj\Debug\_5.UC_CustomerRes.resources

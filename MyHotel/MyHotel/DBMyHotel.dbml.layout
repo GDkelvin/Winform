@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DBMyHotel">
+  <DataContextMoniker Name="/DBMyHotelDataContext" />
+  <nestedChildShapes>
+    <classShape Id="92ef51d4-f820-4867-affc-77ef31655c6a" absoluteBounds="3.5, 1, 2, 3.1170068359375009">
+      <DataClassMoniker Name="/DBMyHotelDataContext/customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5448e1eb-2f77-4a1f-9795-64549358eb29" absoluteBounds="3.515, 1.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4e853527-2f5c-4904-adb2-5d51e7334cf8" absoluteBounds="0.75, 1.5, 2, 1.9631982421874998">
+      <DataClassMoniker Name="/DBMyHotelDataContext/room" />
+      <nestedChildShapes>
+        <elementListCompartment Id="be6aab96-5a71-4590-8939-3009459b5c21" absoluteBounds="0.765, 1.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="90852fdc-9f89-4203-b9e0-835f6b05453a" absoluteBounds="0.75, 5.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DBMyHotelDataContext/employee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="28fe1dcd-6bc5-47b8-aa18-632654677be6" absoluteBounds="0.765, 6.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.48159912109375); (3.5 : 2.48159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DBMyHotelDataContext/room/room_customer" />
+      <nodes>
+        <classShapeMoniker Id="4e853527-2f5c-4904-adb2-5d51e7334cf8" />
+        <classShapeMoniker Id="92ef51d4-f820-4867-affc-77ef31655c6a" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
